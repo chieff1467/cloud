@@ -1,0 +1,80 @@
+[submodule "claude-skills/official-anthropic/anthropic-skills"]
+	path = claude-skills/official-anthropic/anthropic-skills
+	url = https://github.com/anthropics/skills.git
+	shallow = true
+[submodule "claude-skills/official-anthropic/claude-plugins-official"]
+	path = claude-skills/official-anthropic/claude-plugins-official
+	url = https://github.com/anthropics/claude-plugins-official.git
+	shallow = true
+[submodule "claude-skills/community/superpowers"]
+	path = claude-skills/community/superpowers
+	url = https://github.com/obra/superpowers.git
+	shallow = true
+[submodule "claude-skills/community/superpowers-lab"]
+	path = claude-skills/community/superpowers-lab
+	url = https://github.com/obra/superpowers-lab.git
+	shallow = true
+[submodule "claude-skills/community/superpowers-skills"]
+	path = claude-skills/community/superpowers-skills
+	url = https://github.com/obra/superpowers-skills.git
+	shallow = true
+[submodule "claude-skills/community/alirezarezvani-claude-skills"]
+	path = claude-skills/community/alirezarezvani-claude-skills
+	url = https://github.com/alirezarezvani/claude-skills.git
+	shallow = true
+[submodule "claude-skills/community/claude-code-skill-factory"]
+	path = claude-skills/community/claude-code-skill-factory
+	url = https://github.com/alirezarezvani/claude-code-skill-factory.git
+	shallow = true
+[submodule "claude-skills/community/abubakarsiddik31-collection"]
+	path = claude-skills/community/abubakarsiddik31-collection
+	url = https://github.com/abubakarsiddik31/claude-skills-collection.git
+	shallow = true
+[submodule "claude-skills/community/simonw-claude-skills"]
+	path = claude-skills/community/simonw-claude-skills
+	url = https://github.com/simonw/claude-skills.git
+	shallow = true
+[submodule "claude-skills/community/skill-seekers"]
+	path = claude-skills/community/skill-seekers
+	url = https://github.com/yusufkaraaslan/Skill_Seekers.git
+	shallow = true
+[submodule "claude-skills/community/awesome-claude-skills-travisvn"]
+	path = claude-skills/community/awesome-claude-skills-travisvn
+	url = https://github.com/travisvn/awesome-claude-skills.git
+	shallow = true
+[submodule "claude-skills/community/awesome-claude-skills-composio"]
+	path = claude-skills/community/awesome-claude-skills-composio
+	url = https://github.com/ComposioHQ/awesome-claude-skills.git
+	shallow = true
+[submodule "claude-skills/community/awesome-claude-skills-behisecc"]
+	path = claude-skills/community/awesome-claude-skills-behisecc
+	url = https://github.com/BehiSecc/awesome-claude-skills.git
+	shallow = true
+[submodule "claude-skills/community/individual-skills/ios-simulator-skill"]
+	path = claude-skills/community/individual-skills/ios-simulator-skill
+	url = https://github.com/conorluddy/ios-simulator-skill.git
+	shallow = true
+[submodule "claude-skills/community/individual-skills/playwright-skill"]
+	path = claude-skills/community/individual-skills/playwright-skill
+	url = https://github.com/lackeyjb/playwright-skill.git
+	shallow = true
+[submodule "claude-skills/community/individual-skills/claude-d3js-skill"]
+	path = claude-skills/community/individual-skills/claude-d3js-skill
+	url = https://github.com/chrisvoncsefalvay/claude-d3js-skill.git
+	shallow = true
+[submodule "claude-skills/community/individual-skills/claude-scientific-skills"]
+	path = claude-skills/community/individual-skills/claude-scientific-skills
+	url = https://github.com/K-Dense-AI/claude-scientific-skills.git
+	shallow = true
+[submodule "claude-skills/community/individual-skills/ffuf_claude_skill"]
+	path = claude-skills/community/individual-skills/ffuf_claude_skill
+	url = https://github.com/jthack/ffuf_claude_skill.git
+	shallow = true
+[submodule "claude-skills/community/individual-skills/web-asset-generator"]
+	path = claude-skills/community/individual-skills/web-asset-generator
+	url = https://github.com/alonw0/web-asset-generator.git
+	shallow = true
+[submodule "claude-skills/plugins/claude-code-plugins-plus"]
+	path = claude-skills/plugins/claude-code-plugins-plus
+	url = https://github.com/jeremylongshore/claude-code-plugins-plus.git
+	shallow = true
